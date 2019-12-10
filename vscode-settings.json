@@ -4,8 +4,7 @@
     "workbench.editor.enablePreview": false,
     "window.zoomLevel": 0,
     "git.confirmSync": false,
-    "# ****** START PHPCONFIG ******": false,
-    "php.suggest.basic": false,
+    "php.suggest.basic": false, //****** START PHPCONFIG ******
     "files.associations": {
         "*.inc": "php",
         "*.module": "php",
@@ -31,14 +30,11 @@
       "php-cs-fixer.autoFixBySemicolon": false,
       "php-cs-fixer.formatHtml": false,
       "php-cs-fixer.documentFormattingProvider": true,
-      "php-cs-fixer.lastDownload": 1575862609125,
-      "# ****** END PHPCONFIG ******": false,
-      
-      "# ****** START DARTCONFIG ******": false,
-      "dart.openDevTools": "flutter",  
+      "php-cs-fixer.lastDownload": 1575862609125, // ****** END PHPCONFIG ******"
+            
+      "dart.openDevTools": "flutter", // ****** START DARTCONFIG ******  
       "[dart]": {
         "editor.defaultFormatter": "Dart-Code.dart-code"
-      }
-      "# ****** END DARTCONFIG ******": false,
-    
+      } // ****** END DARTCONFIG ******"
+         
 }
